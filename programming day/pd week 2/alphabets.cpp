@@ -1,0 +1,44 @@
+#include <iostream> 
+using namespace std;
+main(){
+cout << "  _________ 	" <<endl;
+cout << " |   ___   |	" <<endl;
+cout << " |  |___|  |	" <<endl;
+cout << " |   ___   |	" <<endl;
+cout << " |  |   |  |    " <<endl;
+cout << " |__|   |__|	" <<endl;
+cout << " ..	  ..	" <<endl;
+cout << "  ..    .. 	" <<endl;
+cout << "    .... 	" <<endl;
+cout << "    ....       " <<endl;
+cout << "  ..    ..	" <<endl;
+cout << " ..      ..	" <<endl;
+cout << "               " <<endl;
+cout << "  ########     " <<endl;
+cout << "      ###      " <<endl;
+cout << "     ###       " <<endl;
+cout << "    ###        " <<endl;
+cout << "   ###         " <<endl;
+cout << "  ########     " <<endl;
+cout << "               " <<endl;
+cout << " $$  $$        " <<endl;
+cout << " $$ $$         " <<endl;
+cout << " $$$           " <<endl;
+cout << " $$ $$         " <<endl;
+cout << " $$  $$        " <<endl;
+cout << "               " <<endl;
+cout << "  :::::        " <<endl;
+cout << " ::   ::       " <<endl;
+cout << "  ::           " <<endl;
+cout << "   ::          " <<endl;
+cout << "     ::        " <<endl;
+cout << " ::   ::       " <<endl;
+cout << "  :::::        " <<endl;
+cout << "               " <<endl;  
+cout << " @    @        " <<endl;
+cout << " @    @        " <<endl;
+cout << " @    @        " <<endl;
+cout << " @    @        " <<endl;
+cout << "  @@@@         " <<endl; 
+cout << "               " <<endl;
+}
